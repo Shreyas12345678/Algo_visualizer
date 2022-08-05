@@ -1,15 +1,24 @@
-Sorting visualizers using flutter 
+<div>
+  <h2>Sorting visualizers using flutter</h2> 
+</div>
+<div>
+  
+  <p>Algorithms added are </p>
+<ul>
+  <li>Selection sort</li>
+  <li>Insertion sort</li>
+  <li>Bubble sort</li>
+  </ul>
+</div>
 
-Algorithms added are 
-1.Selection sort
-2.Insertion sort
-3.Bubble sort
-
-
-Algorithms yet to add are
-1.binary search
-2.Linear search
-
+<div>
+  
+  <p>Future Scope</p>
+  <ul>
+    <li>binary search</li>
+    <li>Linear search</li>
+  </ul>
+<hr>
 
 ![mobile_sc](https://user-images.githubusercontent.com/58409263/183003714-f03276e8-18b8-45e9-91aa-f2e2822aeaea.jpg)
 
